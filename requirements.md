@@ -84,3 +84,4 @@ This document details the technical and functional requirements for core backend
 - All endpoints must include structured error responses.
 - Unit and integration tests are required for all listed endpoints.
 
+
